@@ -42,9 +42,6 @@ and the team Pyraticas - 2.0 is yet again back with a great solution!
 
 ![Screenshot (11)](https://user-images.githubusercontent.com/58984405/114281837-4cbd2680-9a5e-11eb-9a45-4dd0f8fdb9df.png)
 
-4. Complete Visulisation with the help of AR modules right infront of user.
-
-![Screenshot (7)](https://user-images.githubusercontent.com/58984405/114281846-5ba3d900-9a5e-11eb-9e5e-4aebad9eb8f5.png)
 
 
 ### `Built With`
