@@ -1,6 +1,4 @@
-![Made-at-Hack-36](https://user-images.githubusercontent.com/58984405/114290927-daba0100-9aa0-11eb-8495-d8137495ea59.png)
-
-# explorAR
+# EduXR
 
 In today's era of conflicting times and modernisation, when it's totally upon us 
 how must we lay the foundation of Education for the future generations to come.
@@ -8,26 +6,7 @@ The World has seen great damage to education in the post - Covid Crises,
 and the team Pyraticas - 2.0 is yet again back with a great solution!
 
   
-### `Presentation Link:`
-  <a href="https://docs.google.com/presentation/d/1CBGeY9QumsXg5vOczCc3ZVKTW5gtZpWf/edit?usp=sharing&ouid=108434563994817896026&rtpof=true&sd=true"> ppt link here (Correct)</a>
 
-### `Website Link:`
-<a href="https://explorear.github.io/ExplorAR/">Website Link</a>
-
-### `Problem Statement`
-
-1. With the imposing of lockdown, schools have been closed for more than an year.
-2. Direct promotion had lead us to nothing but a void in education gap.
-3. Interactive education has come to an end.
-4. It's difficult for students to mug - up books just by sitting at home.
-
-
-### `Proposed Solution`
-
-1. Complete AR experience for all students of primary schools.
-2. Completely User-Friendly interface.
-3. Easy to learn and dive into the realms of subjects.
-4. Making e-learning much easier and sophisticated than before.
 
 
 ### `Features of explorAR`
@@ -82,11 +61,3 @@ and the team Pyraticas - 2.0 is yet again back with a great solution!
 
 [MapTiler](https://www.maptiler.com/google-maps-platform-alternative/) - Map Integration.
 
-`## Contributors:`
-
-`Team Name: Pyraticas 2.0`
-
-* [Abhijeet Pandey](https://github.com/abhijeetp94)
-* [Abhishek Pathak](https://github.com/Abhisek06)
-* [Ashutosh Pathak](https://github.com/ashutoshPathakVibhu)
-* [Shradhey Pathak](https://github.com/Shradhey1008)
