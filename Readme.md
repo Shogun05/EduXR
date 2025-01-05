@@ -1,17 +1,13 @@
-![Made-at-Hack-36](https://user-images.githubusercontent.com/58984405/114290927-daba0100-9aa0-11eb-8495-d8137495ea59.png)
 
 # EduXR
 In today's era of conflicting times and modernisation, when it's totally upon us 
 how must we lay the foundation of Education for the future generations to come.
-The World has seen great damage to education in the post - Covid Crises, 
-and the team Pyraticas - 2.0 is yet again back with a great solution!
-
   
 
 
 ### `Problem Statement`
 
-1. With the imposing of lockdown, schools have been closed for more than an year.
+1. The landscape for education has started to shit.
 2. Direct promotion had lead us to nothing but a void in education gap.
 3. Interactive education has come to an end.
 4. It's difficult for students to mug - up books just by sitting at home.
@@ -70,10 +66,8 @@ and the team Pyraticas - 2.0 is yet again back with a great solution!
 
 [EchoAR](https://www.echoar.xyz/) - Augmented Reality.
 
-[OpenWeatherMap](https://openweathermap.org/) - Air Quality Index.
 
 [MapTiler](https://www.maptiler.com/google-maps-platform-alternative/) - Map Integration.
 
-`## Contributors:`
 
 
