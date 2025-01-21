@@ -35,7 +35,7 @@ var list = {
         },
         {
             title: "Gorilla",
-            link: "https://console.echoar.xyz/webar?key=dawn-band-5336&entry=6049fdd6-3102-4a52-8777-86067a7016b8",
+            link: "https://go.echo3d.co/wf9A",
             left: 1063,
             longlat: [-1.4, 29.56],
             foundin: [
@@ -64,7 +64,7 @@ var list = {
         },
         {
             title: "Giant Panda",
-            link: "https://console.echoar.xyz/webar?key=dawn-band-5336&entry=44339327-8318-45ce-936d-de0bbf509cf2",
+            link: "https://go.echo3d.co/rkSg",
             left: 1864,
             longlat: [29, 106],
             foundin: ["South-West, China"],
@@ -72,7 +72,7 @@ var list = {
         },
         {
             title: "Tiger",
-            link: "https://console.echoar.xyz/webar?key=dawn-band-5336&entry=6133c975-db57-49ff-b4e4-169bda8f1b75",
+            link: "https://go.echo3d.co/aoU6",
             left: 3900,
             longlat: [23.41, 80.57],
             foundin: [

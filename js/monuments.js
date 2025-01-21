@@ -2,7 +2,7 @@ var list = {
     animals: [
         {
             title: "Eiffel Tower",
-            link: "https://console.echoar.xyz/webar?key=noisy-bar-1396&entry=1bbbec3d-f398-45b8-a353-e46b566f5d90",
+            link: "https://go.echo3d.co/EseV",
             left: 10,
             longlat: [48.85, 2.29],
             foundin: ["Paris, France"],
@@ -10,7 +10,7 @@ var list = {
         },
         {
             title: "Taj Mahal",
-            link: "https://console.echoar.xyz/webar?key=cool-wind-0510&entry=41276508-fef2-41c4-b298-07bc678cef07",
+            link: "https://go.echo3d.co/pJGC",
             left: 50000,
             longlat: [27.17, 78.04],
             foundin: ["Agra, India"],
@@ -18,7 +18,7 @@ var list = {
         },
         {
             title: "Statue of Liberty",
-            link: "https://console.echoar.xyz/webar?key=cool-wind-0510&entry=003f2670-a5c1-48b8-96a9-7eb5f1552885",
+            link: "https://go.echo3d.co/pjB3",
             left: 6590,
             longlat: [40.68, -74.04],
             foundin: ["New York, USA"],
@@ -35,7 +35,7 @@ var list = {
         },
         {
             title: "Colosseum",
-            link: "https://console.echoar.xyz/webar?key=fancy-dust-5994&entry=8e22bf5f-dfb2-49b3-b022-38379e751d32",
+            link: "https://go.echo3d.co/bMn6",
             left: 68,
             longlat: [41.89, 12.09],
             foundin: ["Italy, Rome"],

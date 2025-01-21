@@ -2,7 +2,7 @@ var list = {
     animals: [
         {
             title: "Camel",
-            link: "https://console.echoar.xyz/webar?key=noisy-bar-1396&entry=0428c5b6-477f-4936-a236-9e4bea8081d4",
+            link: "https://go.echo3d.co/4HgG",
             left: 10,
             longlat: [23.4162, 25.6628],
             foundin: ["Famously Found in Africa"],
@@ -10,7 +10,7 @@ var list = {
         },
         {
             title: "Elephant",
-            link: "https://console.echoar.xyz/webar?key=fragrant-mountain-7260&entry=fa049e65-c187-46e8-b7cd-af8fb34e0b23",
+            link: "https://go.echo3d.co/xcfu",
             left: 10,
             longlat: [-5.9175, 12.5484],
             foundin: ["Famously Found in Rainforest of Africa"],
@@ -18,7 +18,7 @@ var list = {
         },
         {
             title: "Cobra ",
-            link: "https://console.echoar.xyz/webar?key=noisy-bar-1396&entry=ea00563f-a58b-4d82-a4c9-1311bc496469",
+            link: "https://api.echo3d.com/webar?key=icy-fire-7692&entry=95d9bff8-4575-46da-8ebd-81fb45ff0bf0",
             left: 10,
             longlat: [12.2602, 77.1461],
             foundin: ["Famously Found in South Asia and Deserts of Africa"],
@@ -26,7 +26,7 @@ var list = {
         },
         {
             title: "Panda",
-            link: "https://console.echoar.xyz/webar?key=dawn-band-5336&entry=44339327-8318-45ce-936d-de0bbf509cf2",
+            link: "https://go.echo3d.co/rkSg",
             left: 10,
             longlat: [30.5961, 114.2977],
             foundin: ["Famously Found in Central parts of China"],

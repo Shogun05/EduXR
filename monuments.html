@@ -97,9 +97,7 @@
                 click: function (e) {
                     $("#feature-title").text(data.title);
                     $("#content").text(data.info);
-                    $(document).ready(function () {
-                        $("#echoar").load(data.link);
-                    });
+                    $("#echoar").html('<a href="' + data.link + '" target="_blank">Learn more</a>');
                     $("#featureModal").modal("show");
                 },
             });
