@@ -34,7 +34,7 @@ var list = {
         },
         {
             title: "Tiger",
-            link: "https://console.echoar.xyz/webar?key=dawn-band-5336&entry=6133c975-db57-49ff-b4e4-169bda8f1b75",
+            link: "https://go.echo3d.co/aoU6",
             left: 10,
             longlat: [25.0376, 76.4563],
             foundin: ["Famously Found in South Asia"],
